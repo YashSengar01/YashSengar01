@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yash+Sengar+👋;Java+Full+Stack+Developer+☕;Backend+Engineer+in+Progress+🚀;Building+Real-World+Projects+💡)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+☕;Spring+Boot+Backend+Developer+🚀;AWS+%7C+MySQL+%7C+Spring+Security;Building+Production+Ready+Applications+💡" />
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YashSengar01&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YashSengar01&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/YashSengar01?style=for-the-badge&color=58A6FF&label=FOLLOWERS" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/YashSengar01?style=for-the-badge&color=F7C948&label=STARS" alt="Stars"/>
 
 <a href="https://www.linkedin.com/in/yash-sengar-305280320/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
