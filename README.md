@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yash Sengar
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yash+Sengar+👋;Java+Full+Stack+Developer+☕;Backend+Engineer+in+Progress+🚀;Building+Real-World+Projects+💡)](https://git.io/typing-svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+☕;Spring+Boot+Backend+Developer+🚀;AWS+%7C+MySQL+%7C+Spring+Security;Building+Production+Ready+Applications+💡" />
 
