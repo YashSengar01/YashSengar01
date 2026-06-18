@@ -16,15 +16,45 @@
 ```java
 public class YashSengar {
 
-    String role        = "Java Full Stack Developer";
-    String focus       = "Backend Architecture & System Design";
-    String currentWork = "Spring Boot Full Stack Projects";
-    String learning    = "Advanced Spring Boot · System Design · AI";
-    String goal        = "Become a highly skilled Backend Engineer";
-    boolean lovesBuilding = true; // always
+    private String role = "Java Full Stack Developer";
 
-    public String funFact() {
-        return "I build real-world projects that solve practical problems!";
+    private String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "JWT",
+        "MySQL",
+        "AWS EC2",
+        "Nginx"
+    };
+
+    private String currentFocus =
+            "Building scalable backend systems";
+
+    public void sayHello() {
+        System.out.println(
+            "I love turning ideas into real-world applications 🚀"
+        );
+    }
+}
+```
+
+## 🚀 Currently Building
+
+```java
+@Service
+public class CurrentFocus {
+
+    private final String project1 = "CompareDeals";
+    private final String project2 = "BusBookingApp";
+    private final String project3 = "Patient Appointment Management System";
+
+    private final String deployment = "AWS EC2 + Nginx + SSL";
+    private final String backend = "Spring Boot + Spring Security + JWT";
+    private final String database = "MySQL";
+
+    public String nextGoal() {
+        return "Master Microservices, Docker & System Design";
     }
 }
 ```
@@ -49,14 +79,21 @@ public class YashSengar {
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Production Deployments
 
-<div align="center">
+```yaml
+Patient Appointment System:
+  URL: https://pmassystem.duckdns.org
+  Status: LIVE ✅
 
-[![CompareDeals](https://github-readme-stats.vercel.app/api/pin/?username=YashSengar01&repo=CompareDeals&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/YashSengar01/CompareDeals)
-[![BusBookingApp](https://github-readme-stats.vercel.app/api/pin/?username=YashSengar01&repo=BusBookingApp&theme=github_dark&border_color=30363d&hide_border=false)](https://github.com/YashSengar01/BusBookingApp)
+Bus Booking System:
+  URL: http://busbooking09.ddns.net:8082
+  Status: LIVE ✅
 
-</div>
+Compare Deals:
+  URL: https://comparedealsday.in
+  Status: LIVE ✅
+```
 
 ### 🔎 CompareDeals
 > A product comparison web app that helps users find the best deals across multiple platforms.
@@ -92,6 +129,18 @@ public class YashSengar {
 </div>
 
 ---
+## 📈 Developer Journey
+
+```text
+2024 ───────────── Started Java
+2025 ───────────── Spring Boot & MySQL
+2025 ───────────── Built BusBookingApp
+2026 ───────────── Built Patient Appointment System
+2026 ───────────── AWS EC2 Deployment
+2026 ───────────── OAuth2 + JWT Authentication
+2026 ───────────── CompareDeals Production Launch
+NEXT ──────────── Microservices & System Design
+```
 
 ## 🐍 Contribution Graph
 
@@ -114,8 +163,20 @@ public class YashSengar {
 - 🎯 Currently leveling up in **System Design**
 
 ---
-
 <div align="center">
+
+### ⚡ Fun Fact
+
+```bash
+while(alive){
+    eat();
+    code();
+    deployToAWS();
+    sleep();
+}
+```
+
+</div>
 
 ### 💬 Let's Connect & Build Something Great!
 
